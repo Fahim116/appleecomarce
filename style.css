@@ -1,0 +1,15 @@
+
+.buy-now-button{
+    background-color: cyan;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.container{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    
+   
+}
+.container-2{
+    background-image:url(images/bg-2.png)
+}
